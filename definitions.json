@@ -9,13 +9,13 @@
         {
             "word": "Bwik",
             "type": "Noun",
-            "definition": "A Bwik is a small creature with a big heart.",
-            "examples": ["We are all Bwiks in our own way."]
+            "definition": "The most degenerate creature in web3.",
+            "examples": ["The Bwiks are invading!"]
         },
         {
             "word": "Bwik",
             "type": "Verb",
-            "definition": "To bwik is to spread joy, love, and bwikness.",
+            "definition": "To bwik is to spread bwikness.",
             "examples": ["I bwik, you bwik, we all bwik for bwiks."]
         },
         {
@@ -32,7 +32,7 @@
             "examples": ["The bwikness of this place is overwhelming."]
         },
         {
-            "word": "Bwikify",
+            "word": "Bwikifying",
             "type": "Verb",
             "definition": "To bwikify is to make something bwiker than it was before.",
             "examples": ["I bwikify everything I touch."]
@@ -41,7 +41,7 @@
             "word": "Bwiky",
             "type": "Adjective",
             "definition":
-                "Bwiky is used to describe something that is cute and adorable.",
+                "Bwiky is used to describe something that is bwik.",
             "examples": ["That puppy is so bwiky !"]
         },
         {
@@ -55,6 +55,18 @@
             "type": "Adverb",
             "definition": "Bwikity is used when a Bwik is extra bwiky. Like, a lot.",
             "examples": ["OMG ! Did you see that bwikity Bwik ? I'm in love."]
+        },
+        {
+            "word": "Bwiktastic",
+            "type": "Adjective",
+            "definition": "Describes anything remarkably positive or exciting in the Bwikiverse.",
+            "examples": ["I'm feeling bwiktastic today"]
+        },
+        {
+            "word": "Bwikymeter",
+            "type": "Noun",
+            "definition": "A measure unit of excitement, enthusiasm, or bullish sentiment towards BWIKS.",
+            "examples": ["This tweet is 100bm"]
         }
     ]
   }
