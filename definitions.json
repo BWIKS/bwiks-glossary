@@ -1,0 +1,61 @@
+{
+    "definitions": [
+        {
+            "word": "Bwik",
+            "type": "Interjection",
+            "definition": "Word used by Bwiks to greet other Bwiks.",
+            "examples": ["Bwik!", "Bwik Bwik!", "Bwik my friend!"]
+        },
+        {
+            "word": "Bwik",
+            "type": "Noun",
+            "definition": "A Bwik is a small creature with a big heart.",
+            "examples": ["We are all Bwiks in our own way."]
+        },
+        {
+            "word": "Bwik",
+            "type": "Verb",
+            "definition": "To bwik is to spread joy, love, and bwikness.",
+            "examples": ["I bwik, you bwik, we all bwik for bwiks."]
+        },
+        {
+            "word": "Bwik",
+            "type": "Adjective",
+            "definition": "Bwik is used to describe something cool, awesome, or bwik.",
+            "examples": ["Your hat is so bwik. Damn."]
+        },
+        {
+            "word": "Bwikness",
+            "type": "Noun",
+            "definition":
+                "Bwikness is the state of being so bwik, that you can't help but bwik.",
+            "examples": ["The bwikness of this place is overwhelming."]
+        },
+        {
+            "word": "Bwikify",
+            "type": "Verb",
+            "definition": "To bwikify is to make something bwiker than it was before.",
+            "examples": ["I bwikify everything I touch."]
+        },
+        {
+            "word": "Bwiky",
+            "type": "Adjective",
+            "definition":
+                "Bwiky is used to describe something that is cute and adorable.",
+            "examples": ["That puppy is so bwiky !"]
+        },
+        {
+            "word": "Bwiking",
+            "type": "Adverb",
+            "definition": "Bwiking is used to emphasize how much some thing is bwik.",
+            "examples": ["I'm bwiking hungry, let's grab some bwiking food bro."]
+        },
+        {
+            "word": "Bwikity",
+            "type": "Adverb",
+            "definition": "Bwikity is used when a Bwik is extra bwiky. Like, a lot.",
+            "examples": ["OMG ! Did you see that bwikity Bwik ? I'm in love."]
+        }
+    ]
+  }
+  
