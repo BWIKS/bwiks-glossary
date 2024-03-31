@@ -4,7 +4,7 @@
             "word": "Bwik",
             "type": "Interjection",
             "definition": "Word used by Bwiks to greet other Bwiks.",
-            "examples": ["Bwik!", "Bwik Bwik!", "Bwik my friend!"]
+            "examples": ["Bwik !", "Bwik Bwik !", "Bwik my friend !"]
         },
         {
             "word": "Bwik",
@@ -60,13 +60,13 @@
             "word": "Bwiktastic",
             "type": "Adjective",
             "definition": "Describes anything remarkably positive or exciting in the Bwikiverse.",
-            "examples": ["I'm feeling bwiktastic today"]
+            "examples": ["I'm feeling bwiktastic today !"]
         },
         {
             "word": "Bwikymeter",
             "type": "Noun",
             "definition": "A measure unit of excitement, enthusiasm, or bullish sentiment towards BWIKS.",
-            "examples": ["This tweet is 100bm"]
+            "examples": ["This tweet is 100bm."]
         }
     ]
   }
